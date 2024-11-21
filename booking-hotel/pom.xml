@@ -7,7 +7,7 @@
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>2.7.1</version>
-		<relativePath /> <!-- lookup parent from repository -->
+		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.devculi.booking.hotel</groupId>
 	<artifactId>booking-hotel</artifactId>
@@ -26,7 +26,7 @@
 		<dependency>
 			<groupId>org.springframework.webflow</groupId>
 			<artifactId>spring-webflow</artifactId>
-			<version>2.5.1.RELEASE</version>
+			<version>3.0.0</version>
 		</dependency>
 
 		<dependency>
